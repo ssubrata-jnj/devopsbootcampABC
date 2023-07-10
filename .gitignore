@@ -1,0 +1,4 @@
+# ignore all files of pattern
+*.class 
+*.settings 
+*.project
